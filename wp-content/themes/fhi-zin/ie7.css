@@ -1,0 +1,14 @@
+.full-width ul li{
+    background: url("images/bullet-main.gif") no-repeat 0px 15px;
+}
+.menu-primary_links-container li a{
+    padding-left:0px;
+    margin-left:-7px;
+}
+.menu-primary_links-container .current-menu-item a,
+.menu-primary_links-container .current-page-ancestor a,
+.menu-primary_links-container .current_page_item a,
+.menu-primary_links-container li a:hover {
+    padding-left:10px;
+    margin-left:0px;
+}
